@@ -1,2 +1,2 @@
 # programacion
-Especialidad de programación AVB
+Este repositorio contiene material relacionado con la Especialidad de programación AVB
